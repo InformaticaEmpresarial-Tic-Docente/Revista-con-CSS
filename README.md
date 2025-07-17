@@ -50,7 +50,7 @@ Este proyecto educativo enseña CSS Grid mediante la creación de un diseño de 
 Profundiza en Flexbox con el curso [Diseño Web Responsivo de FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## 🖼️ Demo del Proyecto
-[Ver Revista con CSS Grid](#)
+[Ver Revista con CSS Grid](https://informaticaempresarial-tic-docente.github.io/Revista-con-CSS/)
 
 ## 👨‍💻 Contacto del Desarrollador
 **Victoriano Domínguez Henríquez**  
